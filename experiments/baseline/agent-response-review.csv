@@ -1,0 +1,21 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+What essential gear do I need for a summer day hike in moderate terrain?,"**Essential gear for a summer day hike in moderate terrain centers on hydration, sun protection, navigation, and the classic 10 essentials, adapted for heat, possible afternoon storms, and variable trail conditions.** Assume typical summer conditions (warm/hot days, strong UV, potential rain or wind) and moderate fitness; always check local weather, trail reports, and your specific route beforehand.
+
+### Core Recommendations (Adventure Works Gear Focus)
+Prioritize lightweight, breathable, moistu...",5,5,4,
+How should I prepare for my first overnight camping trip?,"**Start with car camping at an established campground close to home.** This is the safest, most practical way for a true first overnight: you can drive in extra comfort items, have easier access to help, practice skills without a heavy pack, and still enjoy the experience. Save backpacking (even a short hike-in) for a later trip once you’ve done this successfully.
+
+### 1. Assess yourself and choose the right trip
+- Experience and fitness: Treat this as beginner-level. Pick a site with toilets, w...",4,4,5,
+I'm planning a 3-day backpacking trip in the mountains in October. What are the most critical safety considerations?,"**Hypothermia/weather, navigation, wildlife/food storage, and emergency comms are the top risks for a 3-day October mountain backpack.** October brings rapidly changing conditions, shorter days, colder nights (often below freezing at elevation), possible early snow or rain, and increased chances of storms. Prioritize layered insulation, waterproof protection, reliable navigation, and a way to call for help.
+
+### Weather, Timing, and Conditions
+- Expect large diurnal swings, frost, wind, and prec...",5,5,5,
+How do I know if a trail is appropriate for my fitness level? I'm a beginner hiker.,"**Start with an honest self-assessment of your current fitness, then match it to objective trail metrics rather than just “easy/moderate/hard” labels.** As a beginner, prioritize short, low-elevation, well-maintained trails and build gradually.
+
+### 1. Assess Your Fitness Level (Do This First)
+- **Cardiovascular baseline**: Can you walk 2–3 miles (3–5 km) on flat pavement or a local park at a conversational pace without stopping, and recover within 10–15 minutes? If not, begin with neighborhood...",4,4,4,
+What additional gear and precautions do I need for winter hiking compared to summer?,"**Winter hiking demands extra insulation, traction, navigation redundancy, and cold-weather emergency systems compared to summer.** Cold, snow/ice, shorter days, higher energy use, avalanche risk (in mountains), and faster onset of hypothermia/frostbite change the requirements. Exact needs depend on location, elevation, snow depth, and your experience/fitness—always check current forecasts, avalanche reports (e.g., regional centers), and trail conditions.
+
+### Additional Clothing and Layering
+Us...",5,5,5,
