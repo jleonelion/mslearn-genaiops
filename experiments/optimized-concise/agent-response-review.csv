@@ -1,0 +1,20 @@
+"test_prompt","agent_response_excerpt","intent_resolution","relevance","groundedness","comments"
+"What essential gear do I need for a summer day hike in moderate terrain?","**For a summer day hike on moderate terrain (well-marked trails with some elevation, typically 4–8 hours), focus on heat management, hydration, sun protection, and basic self-reliance.** This assumes average fitness, no major medical issues, and a forecast of warm/sunny conditions with possible afternoon thunderstorms. If you're new to hiking, start with shorter distances and build up; moderate terrain still involves uneven surfaces, potential for slips, and heat stress.
+
+### Core Gear List (the...","0","0","0",""
+"How should I prepare for my first overnight camping trip?","**Start simple with car camping at an established campground (not a remote backpacking trip) if this is truly your first overnight.** That lets you focus on tent setup, cooking, sleep, and Leave No Trace without adding navigation, heavy packs, or water sourcing. Assess your current fitness and experience honestly: if you have little day-hiking background or any health/fitness limitations, choose a site with short/easy access, nearby facilities, and cell service. Check the specific trail/campgrou...","0","0","0",""
+"I'm planning a 3-day backpacking trip in the mountains in October. What are the most critical safety considerations?","**October mountain backpacking carries high hypothermia, weather-shift, and navigation risks due to shorter days, possible early snow/ice, and rapid temperature drops—prioritize these over scenery.**
+
+To tailor this, share your experience level (beginner/intermediate?), fitness (recent multi-day trips with pack?), group size, and specific range/elevation. Without that, here's the core safety framework for a 3-day trip.
+
+**Weather and hypothermia (top killer):**
+- Mountain October nights often dr...","0","0","0",""
+"How do I know if a trail is appropriate for my fitness level? I'm a beginner hiker.","**Start with easy, short trails (1–3 miles, under 500 ft elevation gain) on well-marked paths with gentle terrain.** As a beginner, match the trail to your current fitness rather than an ambitious goal. Here's how to evaluate and choose safely.
+
+### Assess Your Fitness First
+- **Current activity level**: If you walk 20–30 minutes regularly without getting winded, you can handle a 2-mile easy trail. If you're more sedentary, begin with 1-mile nature walks or park loops.
+- **Key metrics to check**...","0","0","0",""
+"What additional gear and precautions do I need for winter hiking compared to summer?","**Winter hiking demands extra insulation, traction, navigation, and emergency capacity because of cold, snow/ice, shorter days, hidden hazards, and higher energy use.** Summer gear (light layers, trail runners, basic pack) is usually insufficient and unsafe. Conditions vary hugely by location, elevation, and snowpack—always check current forecasts, avalanche reports (if applicable), and trail status before going.
+
+### Assess Yourself First
+Winter hiking is more strenuous (postholing, extra weigh...","0","0","0",""
